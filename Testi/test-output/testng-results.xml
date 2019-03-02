@@ -4,16 +4,28 @@
     <line>
       <![CDATA[hii]]>
     </line>
+    <line>
+      <![CDATA[bye]]>
+    </line>
+    <line>
+      <![CDATA[welcome]]>
+    </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="118" started-at="2019-03-02T18:49:05Z" finished-at="2019-03-02T18:49:05Z">
+  <suite name="Default suite" duration-ms="79" started-at="2019-03-02T19:19:26Z" finished-at="2019-03-02T19:19:26Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="118" started-at="2019-03-02T18:49:05Z" finished-at="2019-03-02T18:49:05Z">
+    <test name="Default test" duration-ms="79" started-at="2019-03-02T19:19:26Z" finished-at="2019-03-02T19:19:26Z">
       <class name="dem.Tes">
-        <test-method status="PASS" signature="demo()[pri:0, instance:dem.Tes@6a03af]" name="demo" duration-ms="45" started-at="2019-03-03T00:19:05Z" finished-at="2019-03-03T00:19:05Z">
+        <test-method status="PASS" signature="demo()[pri:0, instance:dem.Tes@6a03af]" name="demo" duration-ms="30" started-at="2019-03-03T00:49:26Z" finished-at="2019-03-03T00:49:26Z">
           <reporter-output>
             <line>
               <![CDATA[hii]]>
+            </line>
+            <line>
+              <![CDATA[bye]]>
+            </line>
+            <line>
+              <![CDATA[welcome]]>
             </line>
           </reporter-output>
         </test-method> <!-- demo -->
