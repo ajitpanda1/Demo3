@@ -1,35 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
-    <line>
-      <![CDATA[hii]]>
-    </line>
-    <line>
-      <![CDATA[bye]]>
-    </line>
-    <line>
-      <![CDATA[welcome]]>
-    </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="79" started-at="2019-03-02T19:19:26Z" finished-at="2019-03-02T19:19:26Z">
+  <suite name="Default suite" duration-ms="115" started-at="2019-03-12T17:40:37Z" finished-at="2019-03-12T17:40:37Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="79" started-at="2019-03-02T19:19:26Z" finished-at="2019-03-02T19:19:26Z">
-      <class name="dem.Tes">
-        <test-method status="PASS" signature="demo()[pri:0, instance:dem.Tes@6a03af]" name="demo" duration-ms="30" started-at="2019-03-03T00:49:26Z" finished-at="2019-03-03T00:49:26Z">
+    <test name="Default test" duration-ms="115" started-at="2019-03-12T17:40:37Z" finished-at="2019-03-12T17:40:37Z">
+      <class name="dem.demo1">
+        <test-method status="PASS" signature="b()[pri:0, instance:dem.demo1@d5c04e]" name="b" duration-ms="60" started-at="2019-03-12T23:10:37Z" finished-at="2019-03-12T23:10:37Z">
           <reporter-output>
-            <line>
-              <![CDATA[hii]]>
-            </line>
-            <line>
-              <![CDATA[bye]]>
-            </line>
-            <line>
-              <![CDATA[welcome]]>
-            </line>
           </reporter-output>
-        </test-method> <!-- demo -->
-      </class> <!-- dem.Tes -->
+        </test-method> <!-- b -->
+      </class> <!-- dem.demo1 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
