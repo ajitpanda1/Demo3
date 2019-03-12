@@ -1,5 +1,6 @@
 package dem;
 
-public class demo3 {
+public class demo3 
+{
 
 }
